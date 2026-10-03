@@ -6,7 +6,7 @@ This project will:
 
 1. Take all factors, unknowns, and confounding variables into account.
 2. Contain multiple machine learning models and metrics to measure team performance.
-3. Work with multiple data sources (KenPom March Madness ratings, Official NCAA datasets, Kaggle, etc.) to ensure overall accuracy and analysis.
+3. Work with multiple data sources (Bart Torvik, Official NCAA datasets, Kaggle, etc.) to ensure overall accuracy and analysis.
 
 An upset is defined by the NCAA as a lower seeded team beating a higher seeded team when there is a seed difference of at least 5. For example, a 12-seed beating a 5-seed would be an upset due to the seed difference of 7. 
 Mathematically, this can be labeled as a binomial probability distribution where let X = a 5 seed difference team winning (P = 1), and let Y = a 5 seed team losing (P = 0) (high-level overview/explanation).
