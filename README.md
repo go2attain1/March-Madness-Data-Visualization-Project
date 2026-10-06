@@ -1,4 +1,4 @@
-# March-Madness-Data-Visualization-Project
+# March Madness Data Visualization Project
 
 This project aims to predict March Madness game upsets. Predicting an upset involves and considers many factors and unknowns (team performance in the 5 games prior to the tournament, player lineups, offensive/defensive metrics, team efficiency, etc.) from team to team.
 
